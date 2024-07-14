@@ -2,7 +2,7 @@
 
 Project: Programming Fundamentals
 Lottery System
-For this project, I worked independently to implement a version of the UK National Lottery game. I made sure to regularly commit my code into Git as I developed my solution. 
+For this project, I worked independently to develop a UK National Lottery game in Java, utilizing Scanner for input, ArrayList for data storage, Random for number generation, and control flow structures and loops for game logic, ensuring input validation, age verification, and user interaction features.
 
 FR1: Over 18s Only!
 In order to play the game, I asked the user for their name and date of birth. I could ask for the year, month, and day separately, or as a single string.
