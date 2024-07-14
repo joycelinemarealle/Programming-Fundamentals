@@ -2,8 +2,11 @@
 
 Project: Programming Fundamentals
 Lottery System
+
+SUMMARY
 For this project, I worked independently to develop a UK National Lottery game in Java, utilizing Scanner for input, ArrayList for data storage, Random for number generation, and control flow structures and loops for game logic, ensuring input validation, age verification, and user interaction features.
 
+PROJECT DETAILS
 FR1: Over 18s Only!
 In order to play the game, I asked the user for their name and date of birth. I could ask for the year, month, and day separately, or as a single string.
 My program validated the input (e.g., a date of 33/19/2056 is clearly not reasonable, what about 01/01/1900?). It also validated that the person was over 18 in order to play the game.
